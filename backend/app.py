@@ -36,7 +36,7 @@ socketio = SocketIO(app, cors_allowed_origins="*")
 # ---------------------------
 # MongoDB connection
 # ---------------------------
-MONGO_URI = "mongodb+srv://dbUser:PjgloDbTT3BlOjsE@cluster0.iqc12.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_URI = 
 client = MongoClient(MONGO_URI)
 db = client["Event"]   # same as dbName: 'Event'
 
@@ -563,18 +563,18 @@ def delete_existing_sublocation(location_id, sublocation_id):
 # === Twilio Configuration ===
 from twilio.rest import Client
 
-TWILIO_ACCOUNT_SID = "//ACeedb20c2775832a07d27e02693066787"
-TWILIO_AUTH_TOKEN = "5c27d300871d13ebb0a9e974e3b201be"
-TWILIO_PHONE_NUMBER = "+19378284953"  # Twilio sender number
-ALERT_RECIPIENT_NUMBER = "+94705388035"  # Your phone number (Sri Lanka format)
+TWILIO_ACCOUNT_SID = ""
+TWILIO_AUTH_TOKEN = ""
+TWILIO_PHONE_NUMBER = "+"  # Twilio sender number
+ALERT_RECIPIENT_NUMBER = "+"  # Your phone number (Sri Lanka format)
 
 
 # === SMTP Configuration ===
 SMTP_HOST = "smtp.gmail.com"
-SMTP_PORT = 587
-SMTP_USER = "bobhesha@gmail.com"  # Your Gmail address
-SMTP_PASS = "Lahiru100##"  # Use App Password here
-EMAIL_TO = "heshanidilanga11@gmail.com"  # Recipient
+SMTP_PORT = 
+SMTP_USER = "b"  # Your Gmail address
+SMTP_PASS = ""  # Use App Password here
+EMAIL_TO = "h"  # Recipient
 
 def send_sms(body):
     try:
@@ -653,7 +653,7 @@ model2 = joblib.load("model/new_event_disruption_model.pkl")
 label_encoder2 = joblib.load("model/label_encoder.pkl")
 
 # ------------------ Weather API Setup ------------------ #
-OPENWEATHER_API_KEY = "a8927c216016b945b6ef3d9329f0cd0c"
+OPENWEATHER_API_KEY = ""
 
 # City name to coordinates mapping (merged from second app)
 CITIES = {
