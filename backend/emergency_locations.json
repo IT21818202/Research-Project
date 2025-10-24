@@ -1,0 +1,83 @@
+
+{
+"colombo": {
+        "fire": "Colombo Fire Service - 0112 345 678",
+        "police": "Colombo Police - 0112 456 789",
+        "hospital": "Colombo General Hospital - 0112 987 654"
+    },
+    "kandy": {
+        "fire": "Kandy Fire Brigade - 0812 123 456",
+        "police": "Kandy Police - 0812 234 567",
+        "hospital": "Kandy General Hospital - 0812 876 543"
+    },
+    "jaffna": {
+        "fire": "Jaffna Fire Station - 0212 345 678",
+        "police": "Jaffna Police - 0212 456 789",
+        "hospital": "Jaffna Teaching Hospital - 0212 987 654"
+    },
+    "galle": {
+        "fire": "Galle Fire Brigade - 0912 345 678",
+        "police": "Galle Police - 0912 456 789",
+        "hospital": "Karapitiya Teaching Hospital - 0912 987 654"
+    },
+    "trincomalee": {
+        "fire": "Trincomalee Fire Station - 0262 345 678",
+        "police": "Trincomalee Police - 0262 456 789",
+        "hospital": "Trincomalee General Hospital - 0262 987 654"
+    },
+    "hatton": {
+        "fire": "Hatton Fire Station - 0512 345 678",
+        "police": "Hatton Police - 0512 456 789",
+        "hospital": "Dickoya Base Hospital - 0512 987 654"
+    },
+    "negombo": {
+        "fire": "Negombo Fire Brigade - 0312 345 678",
+        "police": "Negombo Police - 0312 456 789",
+        "hospital": "Negombo General Hospital - 0312 987 654"
+    },
+    "nuwara eliya": {
+        "fire": "Nuwara Eliya Fire Station - 0522 345 678",
+        "police": "Nuwara Eliya Police - 0522 456 789",
+        "hospital": "Nuwara Eliya General Hospital - 0522 987 654"
+    },
+    "anuradhapura": {
+        "fire": "Anuradhapura Fire Brigade - 0252 345 678",
+        "police": "Anuradhapura Police - 0252 456 789",
+        "hospital": "Anuradhapura Teaching Hospital - 0252 987 654"
+    },
+    "batticaloa": {
+        "fire": "Batticaloa Fire Station - 0652 345 678",
+        "police": "Batticaloa Police - 0652 456 789",
+        "hospital": "Batticaloa Teaching Hospital - 0652 987 654"
+    },
+    "matara": {
+        "fire": "Matara Fire Service - 0412 345 678",
+        "police": "Matara Police - 0412 456 789",
+        "hospital": "Matara General Hospital - 0412 987 654"
+    },
+    "polonnaruwa": {
+        "fire": "Polonnaruwa Fire Station - 0272 345 678",
+        "police": "Polonnaruwa Police - 0272 456 789",
+        "hospital": "Polonnaruwa General Hospital - 0272 987 654"
+    },
+    "ratnapura": {
+        "fire": "Ratnapura Fire Station - 0452 345 678",
+        "police": "Ratnapura Police - 0452 456 789",
+        "hospital": "Ratnapura General Hospital - 0452 987 654"
+    },
+    "dambulla": {
+        "fire": "Dambulla Fire Brigade - 0662 345 678",
+        "police": "Dambulla Police - 0662 456 789",
+        "hospital": "Dambulla Base Hospital - 0662 987 654"
+    },
+    "badulla": {
+        "fire": "Badulla Fire Service - 0552 345 678",
+        "police": "Badulla Police - 0552 456 789",
+        "hospital": "Badulla General Hospital - 0552 987 654"
+    },
+    "malabe": {
+        "fire": "Malabe Fire Station - 0112 123 456",
+        "police": "Malabe Police Station - 0112 234 567",
+        "hospital": "Neville Fernando Hospital - 0114 321 234"
+    }
+}
